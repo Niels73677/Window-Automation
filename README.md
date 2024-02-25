@@ -13,7 +13,7 @@ Windows Automation is a simple graphical user interface (GUI) application for Wi
 
 ## Usage
 
-1. Download the `windows-automation.exe` file from the [Releases](https://github.com/Niels73677/windows-automation.git) page.
+1. Download the `WindowsAutomation.exe` file from the [Releases](https://github.com/Niels73677/windows-automation.git) page.
 2. Double-click the executable file to run the application.
 3. Follow the on-screen instructions to perform automation tasks using the graphical user interface.
 
